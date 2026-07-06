@@ -2,8 +2,8 @@
 
 ## Requirement 
 
-main.c : file with a main function to test the code
-my_putchar: file with a my_putchar function with unistd
+- main.c : file with a main function to test the code
+- my_putchar: file with a my_putchar function with unistd
 
 ## Compilation 
 

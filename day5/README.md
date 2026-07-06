@@ -2,7 +2,7 @@
 
 ## Requirement 
 
-main.c : file with a main function to test the code
+- main.c : file with a main function to test the code
 
 ## Compilation 
 
