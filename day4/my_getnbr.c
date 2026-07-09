@@ -100,6 +100,8 @@ int my_getnbr(char const *str)
         return ERROR;
     }
     pos = get_pos(str);
+    if (pos == NOT_FOUND)
+        return ERROR;
     nb_len = get_nb_len(&str[pos]);
     if (nb_len == NOT_FOUND || nb_len > 10) {
         return ERROR;
